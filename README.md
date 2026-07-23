@@ -2,60 +2,27 @@
 
 > Full Stack Developer @ **AiAlma**
 
-Building reliable web applications with a focus on clean architecture, maintainability and continuous learning.
+Building software that is clean, maintainable and made to last.
 
 ---
 
-## About
-
-I'm a Full Stack Developer currently working at **AiAlma**, where I contribute to the development of modern web applications.
-
-I enjoy backend development, designing scalable solutions and continuously improving my software engineering skills.
-
----
-
-## Core Technologies
+### Core Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,angular,react,nodejs,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,angular,react,nodejs,postgres,mongodb" />
 </p>
 
----
+### Development Workflow
 
-## Workflow
+VS Code • Claude Code • Git • GitHub • Docker
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
-</p>
+### Currently
 
-- VS Code
-- Claude Code
-- Git
-- GitHub
-- Docker
+- Working at **AiAlma**
+- Learning software architecture
+- Building my personal portfolio
+- Creating production-ready side projects
 
----
+### Let's connect
 
-## Current Focus
-
-- Software Architecture
-- Backend Development
-- Clean Code
-- Testing
-- Building production-ready applications
-
----
-
-## Goals for 2026
-
-- Launch my personal portfolio
-- Build high-quality side projects
-- Deepen my backend and architecture knowledge
-- Contribute to open source
-
----
-
-## Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/TU-USUARIO
-- 🌐 Portfolio — Coming soon.
+- 💼 LinkedIn: https://www.linkedin.com/in/marc-ramos-i-jord%C3%A0-03826933a/
